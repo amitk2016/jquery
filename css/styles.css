@@ -1,0 +1,17 @@
+p{
+	color: green;
+}
+#container{
+	position: relative;
+}
+#container img{
+	transition:opacity 1s ease-in-out;
+	position:absolute;
+}
+.transparent{
+	opacity:0;
+}
+#clickMe{
+/*	background-color: red;*/
+	position: absolute;
+}
